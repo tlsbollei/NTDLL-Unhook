@@ -39,6 +39,10 @@
 * After the replacement, the script restores the original memory protection of the ```.text``` section using ```VirtualProtect()```, setting it back to its previous state to prevent further modifications
 * Closes handles related to the process, file, and memory mappings to free resources and prevent memory leaks using ```CloseHandle()```
 * Unloads the ```ntdll.dll``` module from the process using ```FreeLibrary()``` to clean up after operations are complete
+
+
+
+
  [![forthebadge](https://forthebadge.com/images/featured/featured-oooo-kill-em.svg)](https://forthebadge.com)
 
 
