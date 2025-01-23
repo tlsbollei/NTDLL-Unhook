@@ -21,7 +21,7 @@
 
 
 ![screenshot](https://raw.githubusercontent.com/tlsbollei/NTDLL-Unhook/refs/heads/main/imgs/ntdll.png)
-
+### to better visualize the purpose of NTDLL.dll ^_^
 
 
 
