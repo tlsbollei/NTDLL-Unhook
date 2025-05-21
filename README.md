@@ -51,6 +51,4 @@
 - [SHA-256 Crack](https://github.com/tlsbollei/sha256crack) - SHA256 cracking tool written in C++ utilizing 2 attack modes - a Dictionary attack and a Brute Force attack with a customizable charset and max length
 
 
-> GitHub [tlsbollei](https://github.com/tlsbollei) &nbsp;&middot;&nbsp;
-> Instagram [0fa102](https://www.instagram.com/0fa102/)
-> Telegram [boleii655](https://t.me/boleii655)
+
